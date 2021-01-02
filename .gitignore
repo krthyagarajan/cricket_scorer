@@ -1,9 +1,9 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 cricket-scorer/
-.firebase/
-.firebaserc
-.github/
+ .firebase/
+ .firebaserc
+# .github/
 
 # compiled output
 /dist
