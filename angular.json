@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cricket-scorer"
+    }
+  },
+  "defaultProject": "cricket-scorer",
+  "cli": {
+    "analytics": "81d309c1-d321-4d11-a333-163377132e56"
+  }
 }
