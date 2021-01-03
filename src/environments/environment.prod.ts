@@ -1,12 +1,12 @@
 export const environment = {
   production: true,
   config:{
-    apiKey: "AIzaSyA8cXocyvMe7_nWBWa6Ur1ZhUxP4--ju90",
-    authDomain: "cricketscorer-927a6.firebaseapp.com",
-    projectId: "cricketscorer-927a6",
-    storageBucket: "cricketscorer-927a6.appspot.com",
-    messagingSenderId: "113877898321",
-    appId: "1:113877898321:web:57b0be4e71445850589470",
-    measurementId: "G-XSDB92PLM9"
+    apiKey: "AIzaSyCusUSXryTHU9d3RXGDKZyVkdtQ8-aecQA",
+    authDomain: "cricketskorer.firebaseapp.com",
+    projectId: "cricketskorer",
+    storageBucket: "cricketskorer.appspot.com",
+    messagingSenderId: "156509793012",
+    appId: "1:156509793012:web:dad3aa780710dd47484ca1",
+    measurementId: "G-437CDDP6LG"
   }
 };
